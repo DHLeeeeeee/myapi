@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "캐스퍼",
+    "image": "이미지~",
+    "description": "캐스퍼 프로모션 사이트를 클론코딩\\n기본적인 html 태그와 css 레이아웃을 연습했으며 silick 라이브러리를 사용하여 슬라이드도 구현했습니다.",
+    "tags": ["html", "css", "jquery"],
+    "source_code": "",
+    "demo": ""
+  },
+  {
+    "id": 2,
+    "name": "건설사업정보시스템 홈페이지",
+    "image": "이미지~",
+    "description": "건설사업정보시스템 홈페이지를 클론코딩\\nflex와 grid를 사용하여 레이아웃을 잡았습니다.",
+    "tags": ["html", "css", "jquery"],
+    "source_code": "",
+    "demo": ""
+  },
+  {
+    "id": 3,
+    "name": "뭐시기뭐시기",
+    "image": "이미지~",
+    "description": "뭐시기뭐시기해서 뭐시기 했습니다.",
+    "tags": ["html", "css", "javascript"],
+    "source_code": "",
+    "demo": ""
+  },
+  {
+    "id": 4,
+    "name": "Done List",
+    "image": "이미지~",
+    "description": "react를 사용하여 간단한 Done List 앱",
+    "tags": ["html", "css", "react"],
+    "source_code": "",
+    "demo": ""
+  },
+  {
+    "id": 5,
+    "name": "MacOS style portpolio",
+    "image": "이미지~",
+    "description": "react를 사용하여 만든 MacOS 스타일의 포트폴리오 사이트",
+    "tags": ["html", "css", "react"],
+    "source_code": "",
+    "demo": ""
+  }
+]
