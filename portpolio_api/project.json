@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "캐스퍼",
+    "image": "https://dhleeeeeee.github.io/myapi/my_api/portpolio_api/img/project01.png",
+    "description": "캐스퍼 프로모션 사이트를 클론코딩\\n기본적인 html 태그와 css 레이아웃을 연습했으며 silick 라이브러리를 사용하여 슬라이드도 구현했습니다.",
+    "tags": ["html", "css", "jquery"],
+    "source_code": "https://github.com/DHLeeeeeee/casper",
+    "demo": "https://dhleeeeeee.github.io/casper/"
+  },
+  {
+    "id": 2,
+    "name": "건설사업정보시스템 홈페이지",
+    "image": "https://dhleeeeeee.github.io/myapi/my_api/portpolio_api/img/project02.png",
+    "description": "건설사업정보시스템 홈페이지를 클론코딩\\nflex와 grid를 사용하여 레이아웃을 잡았습니다.",
+    "tags": ["html", "css", "jquery"],
+    "source_code": "https://github.com/DHLeeeeeee/ministryOfLand",
+    "demo": "https://dhleeeeeee.github.io/ministryOfLand/"
+  },
+  {
+    "id": 3,
+    "name": "뭐시기뭐시기",
+    "image": "https://dhleeeeeee.github.io/myapi/my_api/portpolio_api/img/project01.png",
+    "description": "뭐시기뭐시기해서 뭐시기 했습니다.",
+    "tags": ["html", "css", "javascript"],
+    "source_code": "https://github.com/DHLeeeeeee/ministryOfLand",
+    "demo": ""
+  },
+  {
+    "id": 4,
+    "name": "To Do List",
+    "image": "https://dhleeeeeee.github.io/myapi/my_api/portpolio_api/img/project01.png",
+    "description": "react를 사용하여 간단한 To Do List 앱",
+    "tags": ["html", "css", "react"],
+    "source_code": "https://github.com/DHLeeeeeee/ministryOfLand",
+    "demo": ""
+  },
+  {
+    "id": 5,
+    "name": "MacOS style portpolio",
+    "image": "https://dhleeeeeee.github.io/myapi/my_api/portpolio_api/img/project01.png",
+    "description": "react를 사용하여 만든 MacOS 스타일의 포트폴리오 사이트",
+    "tags": ["html", "css", "react"],
+    "source_code": "https://github.com/DHLeeeeeee/macOS_style_portpolio",
+    "demo": "https://dhleeeeeee.github.io/casper/"
+  }
+]
