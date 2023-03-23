@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "MacOS style portpolio",
-    "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project01.png",
+    "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project05.png",
     "description": "react를 사용하여 만든 MacOS 스타일의 포트폴리오 사이트",
     "tags": ["html", "css", "react"],
     "source_code": "https://github.com/DHLeeeeeee/macOS_style_portpolio",
