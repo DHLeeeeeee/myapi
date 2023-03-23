@@ -3,7 +3,7 @@
     "id": 1,
     "name": "캐스퍼",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project01.png",
-    "description": "캐스퍼 프로모션 사이트를 클론코딩\\n기본적인 html 태그와 css 레이아웃을 연습했으며 silick 라이브러리를 사용하여 슬라이드도 구현했습니다.",
+    "description": "캐스퍼 프로모션 사이트를 클론코딩 기본적인 html 태그와 css 레이아웃을 연습했으며 silick 라이브러리를 사용하여 슬라이드도 구현했습니다.",
     "tags": ["html", "css", "jquery"],
     "source_code": "https://github.com/DHLeeeeeee/casper",
     "demo": "https://dhleeeeeee.github.io/casper/"
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "건설사업정보시스템 홈페이지",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project02.png",
-    "description": "건설사업정보시스템 홈페이지를 클론코딩\\nflex와 grid를 사용하여 레이아웃을 잡았습니다.",
+    "description": "건설사업정보시스템 홈페이지를 클론코딩 flex와 grid를 사용하여 레이아웃을 잡았습니다.",
     "tags": ["html", "css", "jquery"],
     "source_code": "https://github.com/DHLeeeeeee/ministryOfLand",
     "demo": "https://dhleeeeeee.github.io/ministryOfLand/"
