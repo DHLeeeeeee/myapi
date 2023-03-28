@@ -3,7 +3,7 @@
     "id": 1,
     "name": "캐스퍼",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project01.png",
-    "description": "Flex 레이아웃과 CSS hover 효과를 활용한 웹 페이지 입니다. slick 라이브러리를 사용하여 여러가지 슬라이드를 구현하였습니다.",
+    "description": "Flex 레이아웃과 CSS hover 효과를 활용한 웹 페이지 입니다. \nslick 라이브러리를 사용하여 여러가지 슬라이드를 구현하였습니다.",
     "tags": ["html", "css", "jquery"],
     "source_code": "https://github.com/DHLeeeeeee/casper",
     "demo": "https://dhleeeeeee.github.io/casper/"
