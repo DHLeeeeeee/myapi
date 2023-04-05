@@ -32,8 +32,8 @@
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project04.png",
     "description": "react를 사용하여 간단한 To Do List 앱",
     "tags": ["html", "css", "react"],
-    "source_code": "https://dhleeeeeee.github.io/TodoList/",
-    "demo": ""
+    "source_code": "https://github.com/DHLeeeeeee/todo_list",
+    "demo": "https://dhleeeeeee.github.io/TodoList/"
   },
   {
     "id": 5,
