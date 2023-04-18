@@ -3,16 +3,16 @@
     "id": 1,
     "name": "캐스퍼",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project01.png",
-    "description": "Flex 레이아웃과 CSS hover 효과를 활용한 웹 페이지 입니다. \nslick 라이브러리를 사용하여 여러가지 슬라이드를 구현하였습니다.",
+    "description": "현대 캐스퍼 사이트 메인 페이지를 클론코딩 했습니다.\nFlex로 레이아웃을 구성하였으며 Slick slide를 사용하여 슬라이드를 만들었습니다.",
     "tags": ["html", "css", "jquery"],
     "source_code": "https://github.com/DHLeeeeeee/casper",
     "demo": "https://dhleeeeeee.github.io/casper/"
   },
   {
     "id": 2,
-    "name": "건설사업정보시스템 홈페이지",
+    "name": "건설사업정보시스템",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project02.png",
-    "description": "Flex와 Grid를 활용하여 레이아웃을 구성하였습니다.",
+    "description": "건설사업정보시스템 홈페이지를 재구성하여 제작했습니다.\n전체적인 레이아웃을 Flex, Grid를 사용하여 구성하였고, Slick slide를 사용하여 슬라이드를 만들었습니다.\n반응형으로 제작되었습니다.",
     "tags": ["html", "css", "jquery"],
     "source_code": "https://github.com/DHLeeeeeee/cals",
     "demo": "https://dhleeeeeee.github.io/cals/"
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "어반플레이",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project03.png",
-    "description": "풀페이지 라이브러리를 사용하여 풀페이지 웹 사이트를 구현했습니다.",
+    "description": "어반플레이 메인페이지를 클론코딩 했습니다.\nfullPage.js 라이브러리를 사용하여 Full page를 구현하였습니다.\n반응형으로 제작되었습니다.",
     "tags": ["html", "css", "jquery"],
     "source_code": "https://github.com/DHLeeeeeee/urbanplay",
     "demo": "https://dhleeeeeee.github.io/urbanplay/"
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "To Do List",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project04.png",
-    "description": "react를 사용하여 간단한 To Do List 앱",
+    "description": "React를 사용하여 간단한 To Do List를 만들었습니다.\nuseState, useEfect, useRef등의 React Hook을 사용하여 할 일을 기록하고 생성 또는 삭제, 수정이 가능합니다.",
     "tags": ["html", "css", "react"],
     "source_code": "https://github.com/DHLeeeeeee/todo_list",
     "demo": "https://dhleeeeeee.github.io/TodoList/"
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "MacOS style portpolio",
     "image": "https://dhleeeeeee.github.io/myapi/portpolio_api/img/project05.png",
-    "description": "react를 사용하여 만든 MacOS 스타일의 포트폴리오 사이트",
+    "description": "react를 사용하여 만든 MacOS 스타일의 포트폴리오 사이트입니다.\nReact Router를 사용하여 SPA를 구현하였습니다.",
     "tags": ["html", "css", "react"],
     "source_code": "https://github.com/DHLeeeeeee/macOS_style_portpolio",
     "demo": "https://dhleeeeeee.github.io/casper/"
